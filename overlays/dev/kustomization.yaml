@@ -3,7 +3,7 @@ kind: Kustomization
 images:
 - name: 922491551986.dkr.ecr.ap-northeast-2.amazonaws.com/hcjung-frontend
   newName: 922491551986.dkr.ecr.ap-northeast-2.amazonaws.com/hcjung-frontend
-  newTag: 837d99ff
+  newTag: 69bd99d4
 resources:
 - ../../base
 patchesStrategicMerge:
